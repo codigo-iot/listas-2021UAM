@@ -7,6 +7,7 @@
 ### Alumnos
 
 [Angel Pimentel](https://github.com/angel-pm)
+[Bruno Omar Delgadillo Bernal](https://github.com/BrunoDelBer)
 [Elliot Hernández] (https://github.com/Elliot-Hernandez)
 [Giovanni Olmos](https://github.com/Gos23)
 [Victor Sosa](https://github.com/VictorSosa-dev)
