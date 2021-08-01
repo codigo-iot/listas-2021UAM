@@ -6,4 +6,7 @@
 
 ### Alumnos
 
+[Enrique Vivanco][https://github.com/Vivanco443]
 [Juan Alemán](https://github.com/Alemango)
+[Raymundo Barrales] (https://github.com/rbarrales)
+
