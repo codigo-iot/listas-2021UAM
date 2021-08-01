@@ -6,6 +6,7 @@
 
 ### Alumnos
 
+[Yael Ramírez](https://github.com/YaelRmz)
 [Enrique Vivanco][https://github.com/Vivanco443]
 [Gabriel Hurtado](https://github.com/gabrielhuav)
 [Juan Alemán](https://github.com/Alemango)
