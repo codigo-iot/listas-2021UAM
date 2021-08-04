@@ -6,6 +6,7 @@
 
 ### Alumnos
 
+<<<<<<< HEAD
 [Eduardo Cortez](https://github.com/EduardoCM05)
 [Emmanuel Salazar Popoca](https://github.com/Emma-Salz)
 [Enrique Vivanco][https://github.com/Vivanco443]
@@ -16,3 +17,6 @@
 [Raymundo Barrales] (https://github.com/rbarrales)
 [Yael Ramírez](https://github.com/YaelRmz)
 [Luis Angel Cruz Diaz](https://github.com/Luisangel2801)
+=======
+[Luis Ángel Cruz Díaz](https://github.com/Luisangel2801)
+>>>>>>> 32775a555e47e493a9133bf8a5935eb5061d6efb
