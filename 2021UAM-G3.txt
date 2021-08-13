@@ -6,6 +6,7 @@
 
 ### Alumnos
 
+[Abraham Cuautle](https://github.com/AbrahamCuautle19)
 [Eduardo Cortez](https://github.com/EduardoCM05)
 [Emmanuel Salazar Popoca](https://github.com/Emma-Salz)
 [Enrique Vivanco][https://github.com/Vivanco443]
@@ -17,6 +18,5 @@
 [Luis Angel Cruz Diaz](https://github.com/Luisangel2801)
 [Juan Alemán](https://github.com/Alemango)
 [Raymundo Barrales] (https://github.com/rbarrales)
-[Yael Ramírez](https://github.com/YaelRmz)
 [Xavier Emmanuel Domínguez Grajales](https://github.com/Xavier-Grajales)
 [Yael Ramírez](https://github.com/YaelRmz)
