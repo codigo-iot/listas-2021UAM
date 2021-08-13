@@ -8,11 +8,15 @@
 
 [Angel Pimentel](https://github.com/angel-pm)
 [Bruno Omar Delgadillo Bernal](https://github.com/BrunoDelBer)
+[Daniel Hernandez](https://github.com/danielOsio)
+[Eduardo Bernal](https://github.com/EduardoBernal10)
+[Fernanda Marcelin](https://github.com/FerMarcelin)
 [Elliot Hernández] (https://github.com/Elliot-Hernandez)
 [Giovanni Olmos](https://github.com/Gos23)
 [Gonzalo Olvera](https://github.com/olvera93)
 [Isur Ramírez](https://github.com/JorgeIsur)
-[Víctor Estupiñán](https://github.com/WihoverEsal)
-[Victor Sosa](https://github.com/VictorSosa-dev)
 [Javier Marcial](https://github.com/Skovks)
-
+[Jonathan Cruz](https://github.com/jonacrr)
+[Víctor Estupiñán](https://github.com/WihoverEsal)
+[Victor Flores](https://github.com/Hugo-fv)
+[Victor Sosa](https://github.com/VictorSosa-dev)
