@@ -6,17 +6,15 @@
 
 ### Alumnos
 
-<<<<<<< HEAD
 [Eduardo Cortez](https://github.com/EduardoCM05)
 [Emmanuel Salazar Popoca](https://github.com/Emma-Salz)
 [Enrique Vivanco][https://github.com/Vivanco443]
+[Erick Chavarría](https://github.com/erickdchm)
 [Gabriel Hurtado](https://github.com/gabrielhuav)
 [Galindo Guzman German Ascary] (https://github.com/ascary14)
 [José Daniel Ayala De La Rosa](https://github.com/MrQuadBit)
+[Luis Angel Cruz Diaz](https://github.com/Luisangel2801)
 [Juan Alemán](https://github.com/Alemango)
 [Raymundo Barrales] (https://github.com/rbarrales)
 [Yael Ramírez](https://github.com/YaelRmz)
-[Luis Angel Cruz Diaz](https://github.com/Luisangel2801)
-=======
-[Luis Ángel Cruz Díaz](https://github.com/Luisangel2801)
->>>>>>> 32775a555e47e493a9133bf8a5935eb5061d6efb
+[Xavier Emmanuel Domínguez Grajales](https://github.com/Xavier-Grajales)
